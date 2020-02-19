@@ -2,7 +2,7 @@
 #include <vector>
 
 class SqInRect {
-public:
+ public:
   static std::vector<int> sqInRect(int lng, int wdth);
 };
 
